@@ -13,4 +13,4 @@ Specify 'Redirect URI' as http://localhost:8080/verify
 Add the details in the file application.properties file
 
 
-Run the command './gradle bootRun'
+Run the command './gradlew bootRun'
