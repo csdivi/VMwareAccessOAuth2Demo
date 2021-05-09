@@ -1,7 +1,7 @@
 # VMwareAccessOAuth2Demo
 VMware Access Authentication with OAuth2.
 
-Prerequisite
+Prerequisite:  
 Admin access to VMware Access environment.
 
 Login to VMWare Access Admin console and create an OAuth2 client of type User Access Token
